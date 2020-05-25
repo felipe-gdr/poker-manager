@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/poker-manager/static/css/main.5f361e03.chunk.css",
+    "main.js": "/poker-manager/static/js/main.97084d75.chunk.js",
+    "main.js.map": "/poker-manager/static/js/main.97084d75.chunk.js.map",
+    "runtime-main.js": "/poker-manager/static/js/runtime-main.84df4aaf.js",
+    "runtime-main.js.map": "/poker-manager/static/js/runtime-main.84df4aaf.js.map",
+    "static/js/2.9598ca2c.chunk.js": "/poker-manager/static/js/2.9598ca2c.chunk.js",
+    "static/js/2.9598ca2c.chunk.js.map": "/poker-manager/static/js/2.9598ca2c.chunk.js.map",
+    "index.html": "/poker-manager/index.html",
+    "precache-manifest.c30bfae9d209958d7946c2afa48337bb.js": "/poker-manager/precache-manifest.c30bfae9d209958d7946c2afa48337bb.js",
+    "service-worker.js": "/poker-manager/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/poker-manager/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9598ca2c.chunk.js.LICENSE.txt": "/poker-manager/static/js/2.9598ca2c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/poker-manager/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84df4aaf.js",
+    "static/js/2.9598ca2c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.97084d75.chunk.js"
+  ]
+}
